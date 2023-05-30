@@ -1,4 +1,5 @@
-![1c5ce46e-266f-43f0-b543-75bf341239b5](https://github.com/ghousetazeem/100DaysOfLeetcode/assets/74200389/50b0b367-2357-46ba-8439-112c2e11e906)
+
+
 # 🚀 100DaysOfLeetcode
 
 This repository is dedicated to my personal challenge of completing 100 days of Leetcode. In this challenge, I aim to solve a coding problem from Leetcode every day for 100 days, track my progress, and document my solutions. This readme file serves as a journal to keep track of my daily progress and provide links to the problems I have solved.
